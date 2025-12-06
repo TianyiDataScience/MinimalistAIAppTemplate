@@ -2,8 +2,10 @@
 
 Hi, I'm Tianyi (ML PhD → builder @ One-Person AI Lab). I build content engines, prompts, and tools for solo creators.
 
-AI-generated Image APP template  
+AI-generated Image APP template
+
 Live preview: https://minimist-ai-app-template.vercel.app/
+
 Tech: React 19 + Vite; pure static front-end, deploy-ready on Vercel/Netlify/Pages.
 
 ## Run Locally
